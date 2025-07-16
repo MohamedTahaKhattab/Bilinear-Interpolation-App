@@ -1,7 +1,7 @@
 # Bilinear Interpolation App
 
 A Python GUI application for demonstrating and calculating bilinear interpolation on images and custom data points. This tool is useful for understanding how bilinear interpolation works in computer graphics, image processing, and data visualization.
-(This is the final project for the Object-Oriented Analysis and Design course at the Egyptian Chinese University)
+(This is the final project for the Computer Vision course at the Egyptian Chinese University)
 
 ## Features
 
